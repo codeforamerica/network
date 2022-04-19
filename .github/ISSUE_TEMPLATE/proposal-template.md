@@ -15,3 +15,5 @@ A clear and concise description of what your idea is. Ex. I always wish we had t
 
 ** Could you describe which resources this idea might need to succeed? Please include whether you believe this to be a staff-led proposal or a volunteer-led proposal. **
 Outline what resources you think this needs to succeed.
+
+Before submitting your proposal, select "Upcoming Network projects" as the project for your issue to give visibility to your proposal.
