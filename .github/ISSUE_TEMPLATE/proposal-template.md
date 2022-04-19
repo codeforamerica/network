@@ -2,7 +2,7 @@
 name: Proposal template
 about: This template is for Network members to propose changes to the Network program
 title: "[Proposal]: "
-labels: proposal
+labels: not reviewed yet, proposal
 assignees: ''
 
 ---
