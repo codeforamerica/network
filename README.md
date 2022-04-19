@@ -11,4 +11,4 @@ To see [upcoming plans for the Network](https://github.com/codeforamerica/networ
 
 ### Submit your idea for the Network
 
-Have an idea for something that staff could work on? [Submit an issue on this repo by going here](https://github.com/codeforamerica/network/issues/new). We commit to responding and reviewing ideas on a quarterly basis (4x/year). If you have an immediate request, please go through the normal channels of contacting staff or submitting a support request.
+Have an idea for something that staff could work on? [Submit an issue on this repo by going here](https://github.com/codeforamerica/network/issues/new/choose). We commit to responding and reviewing ideas on a quarterly basis (4x/year). If you have an immediate request, please go through the normal channels of contacting staff or submitting a support request.
